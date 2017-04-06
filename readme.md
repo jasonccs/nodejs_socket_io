@@ -6,3 +6,9 @@ npm install express --save
 
 安装 socket.io 并将其保存到依赖列表中：
 npm install socket.io --save
+
+运行index.js 服务端
+node index.js 启动服务端
+
+index.js 放在你node.js 安装的目录中的node.exe 平级中
+
